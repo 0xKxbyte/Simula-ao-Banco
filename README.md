@@ -41,7 +41,7 @@ Execute normalmente no Windows 10 ou Windows 11.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/0xKxbyte/Simula-ao-Banco.git
 ```
 
 Abra o projeto no:
@@ -107,6 +107,6 @@ Todo o funcionamento pode ser verificado diretamente através do código-fonte.
 
 ## Autor
 
-João Gabriel Ferrari
+0xKxbyte
 
 Projeto desenvolvido para estudo e evolução em programação utilizando C# e .NET.
