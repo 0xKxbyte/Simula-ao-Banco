@@ -110,3 +110,10 @@ Todo o funcionamento pode ser verificado diretamente através do código-fonte.
 0xKxbyte
 
 Projeto desenvolvido para estudo e evolução em programação utilizando C# e .NET.
+
+## Créditos
+
+Projeto criado por João Gabriel Ferrari (0xKxbyte).
+
+A licença MIT permite uso, modificação e distribuição deste projeto. A manutenção dos créditos ao autor original é apreciada e ajuda a reconhecer o trabalho desenvolvido.
+
