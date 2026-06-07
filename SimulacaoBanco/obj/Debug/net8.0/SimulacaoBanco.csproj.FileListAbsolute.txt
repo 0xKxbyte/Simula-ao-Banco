@@ -1,0 +1,14 @@
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\bin\Debug\net8.0\SimulacaoBanco.exe
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\bin\Debug\net8.0\SimulacaoBanco.deps.json
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\bin\Debug\net8.0\SimulacaoBanco.runtimeconfig.json
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\bin\Debug\net8.0\SimulacaoBanco.dll
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\bin\Debug\net8.0\SimulacaoBanco.pdb
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.AssemblyInfoInputs.cache
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.AssemblyInfo.cs
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.csproj.CoreCompileInputs.cache
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.dll
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\refint\SimulacaoBanco.dll
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.pdb
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\SimulacaoBanco.genruntimeconfig.cache
+E:\Cricao-TI\programa.exe\SimulacaoBanco\SimulacaoBanco\obj\Debug\net8.0\ref\SimulacaoBanco.dll
